@@ -1,14 +1,17 @@
 ---
 layout: post
 title:  "What is a retrospective"
-date:   2015-04-18 08:43:59
+permalink: /episodes/1-what-is-a-retrospective
+date:   2018-02-20
+comments: true
 author: Esther Derby
 excerpt: In this first episode we talk with Esther Derby about what a retrospective really is and the role of the facilitator.
+categories: [season one]
 ---
 
 In this first episode we talk with Esther Derby about what a retrospective really is and the role of the facilitator.
 
-<iframe src='https://www.podbean.com/media/player/76kpx-a831a7?from=yiiadmin&download=1&version=1' data-link='https://www.podbean.com/media/player/76kpx-a831a7?from=yiiadmin&download=1&version=1' height='122' width='100%' frameborder='0' scrolling='no' data-name='pb-iframe-player' ></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/575725029%3Fsecret_token%3Ds-KXZeI&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ## Summary
 
@@ -22,23 +25,4 @@ Esther Derby is co-author of Agile Retrospectives: Making Good Teams Great, an e
 http://www.estherderby.com
 
 <img src="/assets/esther_derby.jpg" alt="Esther Derby">
-
-<div id="disqus_thread"></div>
-<script>
-
-var disqus_config = function () {
-this.page.url = "http://www.thisisretrospectivefacilitation.com/1-what-is-a-retrospective";  
-this.page.identifier = "/1-what-is-a-retrospective";
-document.title = "This is retrospective facilitation - What is a retrospective";
-this.page.title = "This is retrospective facilitation - What is a retrospective";
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://thisisretrospectivefacilitation.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
                             

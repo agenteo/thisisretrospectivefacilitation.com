@@ -26,7 +26,7 @@ permalink: /episodes/:title
 
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 10
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
@@ -42,10 +42,10 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: thisisretrospectivefacilitation
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-133295902-1"
 
 # Category descriptions (for archive pages)
 descriptions:
@@ -73,7 +73,7 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: TheBenCentra
+    username: tirfpodcast
     url: https://twitter.com/tirfpodcast
     desc: Follow us on Twitter
     share: true
