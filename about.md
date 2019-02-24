@@ -6,7 +6,7 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/logo.png" title="Profile Picture" class="profile">
 
-This is retrospective facilitation, created by [Enrico Teotti](http://teotti.com) to create a community of retrospective facilitators and increase visibility on good facilitation practices.
+This is retrospective facilitation is a project by [Enrico Teotti](http://teotti.com) to create a community of retrospective facilitators and increase visibility on good facilitation practices.
 
 If you'd like to contribute reach out on twitter [@agenteo](http://twitter.com/agenteo). 
 
