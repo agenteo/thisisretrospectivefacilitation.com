@@ -2,7 +2,7 @@
 layout: post
 title:  "What is a retrospective"
 permalink: /episodes/1-what-is-a-retrospective
-date:   2018-02-20
+date:   2018-02-26
 comments: true
 author: Esther Derby
 excerpt: In this first episode we talk with Esther Derby about what a retrospective really is and the role of the facilitator.
@@ -21,8 +21,9 @@ Have you ever wondered what a retrospective really is? What’s the role of the 
 
 Esther Derby is co-author of Agile Retrospectives: Making Good Teams Great, an expert in organizational dynamics, she teaches workshops and speak to groups and conferences all over the world.
 
-@estherderby
-http://www.estherderby.com
+[@estherderby](http://twitter.com/estherderby)
+[http://www.estherderby.com](http://www.estherderby.com)
+
 
 <img src="/assets/esther_derby.jpg" alt="Esther Derby">
                             

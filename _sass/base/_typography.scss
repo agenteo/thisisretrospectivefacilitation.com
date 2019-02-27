@@ -42,6 +42,11 @@ p {
   margin: 0 0 $small-spacing;
 }
 
+em {
+  color: $action-color;
+  font-style: normal; 
+}
+
 a {
   color: $action-color;
   text-decoration: none;
