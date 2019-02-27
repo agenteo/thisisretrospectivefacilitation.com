@@ -197,6 +197,10 @@ h6 {
 p {
   margin: 0 0 14.4px; }
 
+em {
+  color: #F76E6E;
+  font-style: normal; }
+
 a {
   color: #F76E6E;
   text-decoration: none; }
