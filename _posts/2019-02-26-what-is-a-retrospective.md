@@ -18,7 +18,7 @@ In this first episode we talk with Esther Derby about what a retrospective reall
 
 Have you ever wondered what a retrospective really is? What’s the role of the facilitator? Is it just to pick an activity… time box discussions, move on to the next item… write down the action items and assign it to someone? Well if only retrospective facilitation was that simple… what are things to watch out for? What are things to strive for? In this initial episode we invited Esther Derby to answer some of these questions.
 
-Here are a few highlights from Esther:
+## Here are a few highlights from Esther:
 
 I started my career as a programmer, and I wore many hats since then: team lead, testing, dev-manager. Facilitation served me well in all these roles. I started doing Weinberg style technical reviews where a lot of attention was dedicated to ensure it was safe to talk about the code without criticizing the person that wrote the code.
 
