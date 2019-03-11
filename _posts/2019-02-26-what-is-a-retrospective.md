@@ -47,7 +47,7 @@ I worked with a group that couldn't change the process that was mandated--and on
 
 In another group the VP would barge in and create more stories in the middle of the sprint. The group could not lock the VP out so they changed how they responded to that and developed a little script. When the VP would come in with more stories everyone would repeat the same sentence: "we understand that's important to you, what should we take off the sprint in order to accomplish that?". They would just repeat that. Eventually that changed his behaviour.
 
-An activity to identify what's in our control is [Circles and soup](), what we can influence and what's in the soup. **One of the things we can always control is our response**.
+An activity to identify what's in our control is [Circles and soup](https://www.innovationgames.com/circles-and-soup/), what we can influence and what's in the soup. **One of the things we can always control is our response**.
 
 I use the 5 steps format for 90% of the retrospective I work on because it mirrors a tought process: focus, diverge, converge. It takes advantage of how people think when they think clearly. I've been in organizations when retrospectives started as a list of opinions (what did we do well, what shall we do differently), dot voting. That's not a bad part of a retro but it's not sufficient. I start where they are and slow things down. I usually ask if there is a focus for this particular week instead of just a laundry list. If they're deciding what to focus on during the retrospective there is little opportunity to gather objective data. Deciding what to talk about and being hampered cause there is no more time. Objective and subjective data are equally important.
 
@@ -55,7 +55,7 @@ I don't object to occasionally use retrospective to chill as long as this is not
 
 Having an agenda ahead of time and the topic helps people. If I am concerned about safety I'll spend more time on tackling that and then gently introduce the new format.
 
-**Developers can facilitate their team retrospectives**. If you're part of the team and also the facilitator you need to make real clear which hat you're wearing. I am reluctant in having managers facilitating retrospectives unless it's a completely safe environment. Having some facilitation training is really important, I like the [technology of participation]() methods that came out of the work of the ICA (Institute for Cultural Affairs) so they tested these facilitation around the world. I prefer that to training that focus on specific tecquiques.
+**Developers can facilitate their team retrospectives**. If you're part of the team and also the facilitator you need to make real clear which hat you're wearing. I am reluctant in having managers facilitating retrospectives unless it's a completely safe environment. Having some facilitation training is really important, I like the [technology of participation](http://www.ica-international.org/icas-technology-of-participation-top/) methods that came out of the work of the ICA (Institute for Cultural Affairs) so they tested these facilitation around the world. I prefer that to training that focus on specific tecquiques.
 
 You can fit the 5 steps in 15 minutes.
 
