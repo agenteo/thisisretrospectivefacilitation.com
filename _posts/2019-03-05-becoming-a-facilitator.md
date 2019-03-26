@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Becoming a facilitator"
-permalink: /episodes/2-becoming-a-facilitator
+redirect_from: /episodes/2-becoming-a-facilitator
+permalink: /episodes/becoming-a-retrospective-facilitator
 date:   2019-03-05
 comments: true
 author: Ryan Latta

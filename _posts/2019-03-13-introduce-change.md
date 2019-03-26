@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  Introduce change in retrospectives
-permalink: /episodes/3-introduce-change
+redirect_from: /episodes/3-introduce-change
+permalink: /episodes/introduce-change
 date:   2019-03-13
 comments: true
 author: Linda Rising
