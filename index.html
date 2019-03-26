@@ -6,7 +6,7 @@ layout: default
 <div class="site-header-container {% if site.cover %}has-cover{% endif %}" {% if site.cover %}style="background-image: url({{ site.cover | prepend: site.baseurl }});"{% endif %}>
   <div class="scrim {% if site.cover %}has-cover{% endif %}">
     <header class="site-header">
-      <h1 class="title">{{ site.title }}</h1>
+      <h1 class="title">THIS IS<br/> RETROSPECTIVE FACILITATION</h1>
       {% if site.subtitle %}<p class="subtitle">{{ site.subtitle }}</p>{% endif %}
     </header>
   </div>
@@ -40,21 +40,17 @@ layout: default
 
 <div class="wrapper">
     <div class="post-header-container">
-  <h2 class="post-header">Listen to our 60 seconds preview</h2>
-  <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/578761662&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-  </div>
-</div>
-
-<div class="wrapper">
+        <h3 class="post-header">Our latest episodes</h3>
+    </div>
 <ul class="post-list">
   {% for post in paginator.posts %}
   <li class="post">
-    <h2>
+    <h4>
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-    </h2>
+    </h4>
     <section class="post-excerpt" itemprop="description">
-        <img width="200px" src="/assets/{{ post.authorImage}}" alt="Ryan Latta">
-      <p>{{ post.excerpt | strip_html | truncatewords: 50 }}</p>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}"><img width="200px" src="/assets/{{ post.authorImage}}" alt="Ryan Latta"></a>
+        <p><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.excerpt | strip_html | truncatewords: 50 }}</a></p>
     </section>
     <section class="post-meta">
       <div class="post-date">{{ post.date | date: "%B %-d, %Y" }}</div>
@@ -70,32 +66,12 @@ layout: default
     </section>
   </li>
   {% if forloop.last == false %}
-  <hr>
+  <hr/>
   {% endif %}
   {% endfor %}
-  <hr>
-  <div class="post-header-container">
-      <h2 class="post-header">Upcoming episodes...</h2>
-  </div>
-  <li class="post">        
-      <h3>
-        <em class="post-link">Why do we need a 5 steps framework? with Diana Larsen</em>
-      </h3>
-      <img width="200px" src="/assets/diana_larsen.jpg" alt="Diana Larsen">
-      <section class="post-excerpt" itemprop="description">          
-        <p>In this episode we talk with Diana Larsen about the origins and reasons for the 5 steps framework.</p>          
-      </section>
-  </li>    
-  <li class="post">        
-      <h3>
-        <em class="post-link">Going remote with David Horowitz</em>
-      </h3>
-      <img width="200px" src="/assets/david_horowitz.jpg" alt="David Horowitz">
-      <section class="post-excerpt" itemprop="description">          
-        <p>In this episode we talk with David Horowitz about the challenges--and advantages--of remote retrospectives..</p>          
-      </section>
-  </li>  
 </ul>
+
+<hr/>
 
 <div class="wrapper">
     <div class="post-header-container">

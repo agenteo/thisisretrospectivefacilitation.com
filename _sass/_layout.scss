@@ -260,6 +260,10 @@ pre code.hljs {
 		ul {
 			margin-bottom: 1em;
 		}
+		.post-excerpt a{
+			text-decoration: none;
+			color: $dark-gray;
+		}
 		.post-header-container {
 			.scrim {
 				padding: 2em 1em 1em 1em;
