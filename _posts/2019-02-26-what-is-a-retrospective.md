@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "What is a retrospective"
-permalink: /episodes/1-what-is-a-retrospective
+title:  "What is a powerful retrospective"
+redirect_from: /episodes/1-what-is-a-retrospective
+permalink: /episodes/what-is-a-powerful-retrospective
 date:   2019-02-26
 comments: true
 author: Esther Derby
