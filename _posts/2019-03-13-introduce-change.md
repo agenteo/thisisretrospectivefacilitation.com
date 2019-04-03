@@ -55,7 +55,7 @@ You can't use system 1 on command you can't force it or you can't predict. But y
 
 That's the exciting thing about cognitive neuroscience. What we know now compared to what we knew 2 years ago is definitely changing and has impacts on what we do. I don't force anything. If I need to give a talk at a conference or at a company I collect the context and then leave it. Hours later something happens. I know what I should do and put it together. Instead of forcing it, sit down and get it done.
 
-### Favourite retrospective activity
+### Favorite retrospective activity
 
 Offer appreciations. I have dozens of stories. It can be implemented in many different ways. But everyone was a hero in the last iteration. Sit there until we're all done, at the end people that were unhappy, unsure if they wanted to be on the team or not will feel different.
 
