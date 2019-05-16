@@ -257,6 +257,9 @@ pre code.hljs {
 		img {
 			border-radius: 50%;
 		}
+		img.regular{
+				border-radius: unset !important;
+		}			
 		ul {
 			margin-bottom: 1em;
 		}

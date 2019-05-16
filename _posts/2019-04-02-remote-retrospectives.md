@@ -99,4 +99,7 @@ David Horowitz is the CEO & Co-Founder of Retrium. Prior to co-founding [Retrium
 
 
 <img width="200px" src="/assets/{{page.authorImage}}" alt="{{page.author}}">
-                            
+
+---
+
+Music used in intro/outro is by Krakatoa https://krackatoa.bandcamp.com/album/running-with-wise-fools

@@ -72,4 +72,7 @@ Ryan Latta has been building software and teams for nearly 10 years now. He curr
 
 
 <img width="200px" src="/assets/{{page.authorImage}}" alt="{{page.author}}">
+
+---
                             
+Music used in intro/outro is by Krakatoa https://krackatoa.bandcamp.com/album/running-with-wise-fools

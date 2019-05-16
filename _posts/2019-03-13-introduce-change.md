@@ -76,4 +76,7 @@ Linda Rising is an independent consultant who lives near Nashville, Tennessee. L
 
 
 <img width="200px" src="/assets/{{page.authorImage}}" alt="{{page.author}}">
-                            
+
+---
+
+Music used in intro/outro is by Krakatoa https://krackatoa.bandcamp.com/album/running-with-wise-fools

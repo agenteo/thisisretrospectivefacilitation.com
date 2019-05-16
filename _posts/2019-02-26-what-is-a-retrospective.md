@@ -97,4 +97,7 @@ Esther Derby is co-author of Agile Retrospectives: Making Good Teams Great, an e
 
 
 <img width="200px" src="/assets/{{page.authorImage}}" alt="{{page.author}}">
-                            
+
+---
+
+Music used in intro/outro is by Krakatoa https://krackatoa.bandcamp.com/album/running-with-wise-fools
