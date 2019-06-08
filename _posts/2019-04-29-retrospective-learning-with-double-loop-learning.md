@@ -7,7 +7,7 @@ comments: true
 author: Joanne Perold
 authorImage: joanne_perold.jpg
 excerpt:  Do you ever find your retrospective fixing low hanging fruit? What about the harder issues? In this episode we’ll hear about double loop learning with Joanne Perold.
-categories: [season one]
+categories: [season-one]
 ---
 
 Do you ever find your retrospective fixing low hanging fruit? What about the harder issues? In this episode we’ll hear about double loop learning with Joanne Perold.

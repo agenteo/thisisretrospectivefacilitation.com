@@ -3,6 +3,7 @@ layout: post
 title:  War time US Navy debriefings and retrospectives
 permalink: /episodes/war-time-us-navy-debriefings-and-retrospectives-and-continuous-learning
 comments: true
+date: 2019-05-28
 author: Dan Greene
 authorImage: dan_greene.jpg
 excerpt:  A US Navy F18 pilot veteran share with us how debriefings and a culture of feedback is second nature in the US Navy. How can we incorporate that in our daily work?

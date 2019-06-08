@@ -8,7 +8,7 @@ comments: true
 author: Esther Derby
 authorImage: esther_derby.jpg
 excerpt: In this first episode we talk with Esther Derby about what a retrospective really is and the role of the facilitator.
-categories: [season one]
+categories: [season-one]
 ---
 
 In this first episode we talk with Esther Derby about what a retrospective really is and the role of the facilitator.

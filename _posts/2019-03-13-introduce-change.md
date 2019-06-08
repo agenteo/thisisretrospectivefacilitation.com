@@ -8,7 +8,7 @@ comments: true
 author: Linda Rising
 authorImage: linda_rising.jpg
 excerpt: In this episode we talk with Linda Rising about introducing changes to our retrospective facilitation and how the latest neuroscience research can help.
-categories: [season one]
+categories: [season-one]
 ---
 
 In this episode we talk with Linda Rising about introducing changes to our retrospective facilitation and how the latest neuroscience research can help.

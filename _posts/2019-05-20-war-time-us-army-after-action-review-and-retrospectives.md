@@ -3,6 +3,7 @@ layout: post
 title:  War time US Army after action review and retrospectives
 permalink: /episodes/war-time-us-army-after-action-review-and-retrospectives
 comments: true
+date: 2019-05-20
 author: Jon Schneider
 authorImage: jon_schneider.jpg
 excerpt:  A US Army veteran--now engineers on the Java Spring team--tell us about ingenuous action items generated during after action reviews at war time.

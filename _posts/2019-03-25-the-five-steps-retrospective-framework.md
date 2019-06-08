@@ -7,7 +7,7 @@ comments: true
 author: Diana Larsen
 authorImage: diana_larsen.jpg
 excerpt: In this episode we talk with Diana Larsen about the origins and reasons for the 5 steps framework.
-categories: [season one]
+categories: [season-one]
 ---
 
 In this episode we talk with Diana Larsen about the origins and reasons for the 5 steps framework.

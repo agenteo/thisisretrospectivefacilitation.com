@@ -8,7 +8,7 @@ comments: true
 author: Ryan Latta
 authorImage: ryan_latta.jpg
 excerpt: In this episode we talk with Ryan Latta about his journey becoming a retrospective facilitator. He will shares some challenges he faced running retrospectives and when he discovered it was more then three columns.
-categories: [season one]
+categories: [season-one]
 ---
 
 In this episode we talk with Ryan Latta about his journey becoming a retrospective facilitator.

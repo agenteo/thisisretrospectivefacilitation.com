@@ -7,7 +7,7 @@ comments: true
 author: George Dinwiddie
 authorImage: george_dinwiddie.png
 excerpt:  What’s the end goal of a retrospective? I am gonna give you a little spoiler the answer is not to put stuff in three columns and fix all the sad items. In this episode we’ll hear George Dinwiddie’s answer.
-categories: [season one]
+categories: [season-one]
 ---
 
 What’s the end goal of a retrospective? I am gonna give you a little spoiler the answer is not to put stuff in three columns and fix all the sad items. In this episode we'll George Dinwiddie’s answer.

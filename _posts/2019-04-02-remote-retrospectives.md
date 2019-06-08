@@ -7,7 +7,7 @@ comments: true
 author: David Horowitz
 authorImage: david_horowitz.jpg
 excerpt: In this episode we talk with David Horowitz about the challenges--and advantages--of remote retrospectives.
-categories: [season one]
+categories: [season-one]
 ---
 
 In this episode we talk with David Horowitz creator of [Retrium](http://retrium.com) about the challenges--and advantages--of remote retrospectives.
