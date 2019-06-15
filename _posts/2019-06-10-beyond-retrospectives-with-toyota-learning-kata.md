@@ -3,6 +3,7 @@ layout: post
 title:  Beyond retrospectives using Toyota Learning Kata
 permalink: /episodes/beyond-retrospectives-using-toyota-learning-kata
 comments: true
+date: 2019-06-10
 author: Adam Light
 authorImage: adam_light.jpg
 excerpt:  Do you ever find your retrospective only handles business as usual items? It can do more then that, Adam and I chat about increasing the impact of our agile retrospectives by using concepts from Toyota Learning Kata.
