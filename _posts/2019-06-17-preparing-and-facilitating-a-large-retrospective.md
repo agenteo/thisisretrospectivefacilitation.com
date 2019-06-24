@@ -6,11 +6,11 @@ comments: true
 date: 2019-06-10
 author: Pam Clavier & Lukas Klose & Siebold Anita
 authorImage: anita_lukas_pam.jpg
-excerpt: Anita, Lukas and Pam they collaborated in facilitating a 3 hours retrospective for multiple teams with a total of 60 participants. They split the group in smaller groups and used nested diamonds of participatory decision making. Why would you embark on such an endeavor? What did they learn and what recommendations they have for facilitators about to handle a group this large?
+excerpt: Anita, Lukas and Pam collaborated in facilitating a 3 hours retrospective for multiple teams with a total of 60 participants. They split the group in smaller groups and used nested diamonds of participatory decision making. Why would you embark on such an endeavor? What did they learn and what recommendations they have for facilitators about to handle a group this large?
 categories: [season-one]
 ---
 
-Anita, Lukas and Pam they collaborated in facilitating a retrospective for multiple teams with a total of 60 participants. They split the group in smaller groups and used nested diamonds of participatory decision making (from Kaner’s book).
+Anita, Lukas and Pam  collaborated in facilitating a retrospective for multiple teams with a total of 60 participants. They split the group in smaller groups and used nested diamonds of participatory decision making (from Kaner’s book).
 
 They wrote a detailed blog post https://www.agile42.com/en/blog/2018/09/05/how-we-facilitated-all-hands-retrospective-60-people-three-hours/ but I wanted to ask a few more questions.
 
