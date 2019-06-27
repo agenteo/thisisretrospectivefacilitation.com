@@ -28,10 +28,20 @@ Andy--another participant of RFG 2019 who's not on the show--wrote a detailed bl
 
 <img width="200px" src="/assets/{{page.authorImage}}" alt="{{page.author}}">
 
-* Veit Richter
-* Malte Sussdorff
-* Aino Corry
-* George Dinwiddie
+### Veit Richter
+
+[Linkedin](https://www.linkedin.com/in/veit-richter/)
+
+### Malte Sussdorff
+[Twitter](https://twitter.com/sussdorff) and [Linked](https://www.linkedin.com/in/sussdorff/)
+
+### Aino Corry
+
+[aino@metadeveloper.com](mailto:aino@metadeveloper.com) [Twitter](https://twitter.com/apaipi) [Linkedin](https://www.linkedin.com/in/aino-vonge-corry-9a23801/)
+
+### George Dinwiddie
+
+[Twitter](http://twitter.com/gdinwiddie) is the most immediate way to get hold of me. Websites http://idiacomputing.com and http://blog.gdinwiddie.com are good.
 
 ---
 
