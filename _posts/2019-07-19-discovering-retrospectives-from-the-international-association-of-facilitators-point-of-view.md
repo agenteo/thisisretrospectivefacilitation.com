@@ -6,11 +6,11 @@ comments: true
 date: 2019-07-19
 author: "Karen Schmidt, Wiebke Herding"
 authorImage: karen_and_wiebke.jpg
-excerpt: Have you ever heard of the International Association of Facilitators (IAF)? In this episode we interview Karen and Wiebke about "Discovering retrospectives" a workshop they run together with Edith Steiner-Janesch at the European Conference of the International Association of Facilitators
+excerpt: Have you ever heard of the International Association of Facilitators (IAF)? In this episode we interview Karen and Wiebke--two members of IAF--that run a workshop called "Discovering retrospectives" during the European Conference of the International Association of Facilitators in Milan. I've asked about the IAF mission and what insights experienced facilitators had about retrospectives.
 categories: [season-one]
 ---
 
-Have you ever heard of the International Association of Facilitators (IAF)? In this episode we interview Karen and Wiebke--two members of IAF--that run a workshop called "Discovering retrospectives" during the European Conference of the International Association of Facilitators in Milan. I've asked about the IAF mission and what insights experienced facilitators had about retrospectives. Enjoy the show!
+Have you ever heard of the International Association of Facilitators (IAF)? In this episode we interview Karen and Wiebke--two members of IAF--that run a workshop called "Discovering retrospectives" during the European Conference of the International Association of Facilitators in Milan. I've asked about the IAF mission and what insights experienced facilitators had about retrospectives.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/653734718&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
