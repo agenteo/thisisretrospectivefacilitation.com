@@ -3,11 +3,12 @@ layout: post
 title: Retrospectives for organizational change
 permalink: /episodes/retrospectives-for-organizational-change
 comments: true
-date: 2019-08-22
+date: 2019-08-27
 author: "Jutta Eckstein"
 authorImage: Jutta_Eckstein.jpg
 excerpt: Jutta wrote a book about retrospectives for organizational change. In this episode I ask her what drove her to write the book and what challenges she faced facilitating retrospectives for organizational change.
 categories: [season-one]
+draft: true
 ---
 
 Jutta wrote a book about retrospectives for organizational change. In this episode I ask her what drove her to write the book and what challenges she faced facilitating retrospectives for organizational change.
