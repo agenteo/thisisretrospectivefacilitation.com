@@ -17,8 +17,14 @@ If you'd like to contribute reach out on twitter [@agenteo](http://twitter.com/a
   </div>
 </div>
 
-<hr/>
-
-<div class="post-header-container">
-  <h2 class="post-header"><a class="btn" href="/episodes">View all episodes</a></h2>
+<div class="wrapper">
+    <div class="post-header-container">  
+    <h3 class="post-header">Get the latest episodes on:</h3>
+      <div class="listen-on">      
+        <form action="https://itunes.apple.com/us/podcast/this-is-retrospective-facilitation/id1453928932?mt=2&app=podcast"><button>iTunes</button></form>
+        <form action="https://www.stitcher.com/podcast/this-is-retrospective-facilitation"><button>Stitcher</button></form>
+        <form action="https://open.spotify.com/show/0G0qzC53VxoHVzwgs6gtVF?si=kAwZzMPgRBCQicWQRUO4lQ"><button>Spotify</button></form>
+        <form action="https://overcast.fm/itunes1453928932/this-is-retrospective-facilitation"><button>Overcast</button></form>
+      </div>
+    </div>
 </div>
