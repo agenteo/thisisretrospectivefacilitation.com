@@ -6,9 +6,32 @@
 </description>
     <link>https://thisisretrospectivefacilitation.com/</link>
     <atom:link href="https://thisisretrospectivefacilitation.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Aug 2019 10:24:46 -0700</pubDate>
-    <lastBuildDate>Fri, 23 Aug 2019 10:24:46 -0700</lastBuildDate>
+    <pubDate>Thu, 29 Aug 2019 16:02:01 -0700</pubDate>
+    <lastBuildDate>Thu, 29 Aug 2019 16:02:01 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Retrospectives for organizational change</title>
+        <description>&lt;p&gt;Jutta wrote a book about &lt;a href=&quot;https://www.amazon.com/Retrospectives-Organizational-Change-Agile-Approach/dp/1499190255&quot;&gt;retrospectives for organizational change&lt;/a&gt;. In this episode I ask her what drove her to write the book and what challenges she faced facilitating retrospectives for organizational change.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/669745193%3Fsecret_token%3Ds-AZQ5y&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;about-the-guest&quot;&gt;About the guest&lt;/h3&gt;
+
+&lt;p&gt;Jutta Eckstein works as an independent coach, consultant, and trainer. She has helped many teams and organizations worldwide to make an agile transition. She has unique experience in applying agile processes within medium-sized to large distributed mission-critical projects. She is the coauthor (with John Buck) of the book Company-wide Agility with Beyond Budgeting, Open Space &amp;amp; Sociocracy: Survive &amp;amp; Thrive on Disruption (abbreviated with BOSSA nova). Other books include Agile Software Development in the Large: Diving into the Deep, Agile Software Development with Distributed Teams, Retrospectives for Organizational Change: An Agile Approach, and Diving for Hidden Treasures: Uncovering the Cost of Delay in Your Project Portfolio (coauthored with Johanna Rothman).&lt;/p&gt;
+
+&lt;p&gt;Jutta is a member of the Agile Alliance (having served on the board of directors from 2003-2007) and has been a program committee member of various US, Asian, and European conferences, where she has also presented her work. Jutta holds a Master of Arts degree in business coaching and change management, Master of Science in product engineering, and a Bachelor of Arts degree in education. She can be reached at &lt;a href=&quot;https://twitter.com/JuttaEckstein&quot;&gt;@JuttaEckstein&lt;/a&gt;, &lt;a href=&quot;https://www.linkedin.com/in/juttaeckstein&quot;&gt;https://www.linkedin.com/in/juttaeckstein&lt;/a&gt;, or &lt;a href=&quot;http://jeckstein.com&quot;&gt;http://jeckstein.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Aug 2019 00:00:00 -0700</pubDate>
+        <link>https://thisisretrospectivefacilitation.com/episodes/retrospectives-for-organizational-change</link>
+        <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/retrospectives-for-organizational-change</guid>
+        
+        
+        <category>season-one</category>
+        
+      </item>
     
       <item>
         <title>Reflection on roles in retrospectives</title>
@@ -291,41 +314,6 @@ Over the course of his professional career, he has held a variety of roles in sa
         <pubDate>Mon, 20 May 2019 00:00:00 -0700</pubDate>
         <link>https://thisisretrospectivefacilitation.com/episodes/war-time-us-army-after-action-review-and-retrospectives</link>
         <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/war-time-us-army-after-action-review-and-retrospectives</guid>
-        
-        
-        <category>military</category>
-        
-      </item>
-    
-      <item>
-        <title>War time debriefings in the US Marine Corps and retrospectives</title>
-        <description>&lt;p&gt;This is the first of a series of special episodes where I interview former military war veterans–now working in tech related industries–to reflect on their war time debriefing experiences and similarities with agile retrospectives.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Some teams often skip retrospectives. What happens when you skip a debriefing in a war-zone? In this episode I speak with Jon Hawkins a USMC war veteran–now Chief Marketing Officer at customer.io–and reflect about similarities between retrospectives and military debriefings.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Jon and I worked together in NYC and I have a lot of fond memories about the time we spent there so I asked him to reflect about retrospectives similarities with war time debriefings. Specifically about placing blame and psychological safety.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/620342352%3Fsecret_token%3Ds-EWQ8K&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;img class=&quot;regular&quot; width=&quot;400px&quot; src=&quot;/assets/jon_hawkins_driver.jpg&quot; alt=&quot;Jon deployed&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img class=&quot;regular&quot; width=&quot;400px&quot; src=&quot;/assets/jon_hawkins_jurry_rigged_coolant_collar.jpg&quot; alt=&quot;The jurry rigged collant collar&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;guest&quot;&gt;Guest&lt;/h2&gt;
-
-&lt;p&gt;&lt;img width=&quot;200px&quot; src=&quot;/assets/jon_hawkins.jpg&quot; alt=&quot;Jon Hawkins&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Jon is currently CMO of Customer.io (Customer.io is a marketing automation company used by subscription businesses of all types (SaaS, IoT, Subscription box, Media, etc) https://customer.io&lt;/p&gt;
-
-&lt;p&gt;He was Sergeant in the 2ND Amphibious Assault Battalion (based in Camp Lejeune, North Carolina). Combat deployment was in 2004-05 to Fallujah, Iraq which is located in the Al Anbar province. The tanks was called an amphibious assault vehicle (AAV) for short.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Music used in intro/outro is by Krakatoa https://krackatoa.bandcamp.com/album/running-with-wise-fools&lt;/p&gt;
-</description>
-        <pubDate>Mon, 13 May 2019 00:00:00 -0700</pubDate>
-        <link>https://thisisretrospectivefacilitation.com/episodes/war-time-debriefing-in-the-USMC-and-retrospectives</link>
-        <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/war-time-debriefing-in-the-USMC-and-retrospectives</guid>
         
         
         <category>military</category>

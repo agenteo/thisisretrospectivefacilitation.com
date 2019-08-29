@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://thisisretrospectivefacilitation.com/episodes/retrospectives-for-organizational-change</loc>
+<lastmod>2019-08-29T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>https://thisisretrospectivefacilitation.com/episodes/reflection-on-roles-in-retrospectives</loc>
 <lastmod>2019-08-22T00:00:00-07:00</lastmod>
 </url>
@@ -82,5 +86,9 @@
 </url>
 <url>
 <loc>https://thisisretrospectivefacilitation.com/thanksforsubscribing/</loc>
+</url>
+<url>
+<loc>https://thisisretrospectivefacilitation.com/assets/Pivotal%20Mail%20-%20Your%20receipt%20for%20payment%20to%20Cognitive-Edge%20Ltd.pdf</loc>
+<lastmod>2019-08-28T10:46:00-07:00</lastmod>
 </url>
 </urlset>
