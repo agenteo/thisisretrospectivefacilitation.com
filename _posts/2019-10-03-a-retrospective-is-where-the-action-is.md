@@ -3,7 +3,7 @@ layout: post
 title: A retrospectives is where the action is
 permalink: /episodes/a-retrospectives-is-where-the-action-is
 comments: true
-date: 2019-10-03
+date: 2019-10-02
 author: "Elise Keith"
 authorImage: elise_keith.jpg
 excerpt: Elise wrote "Where the action is" a book about meetings that make or break your organization. She'll share some insights on how to make our retrospectives even more effective considering the meeting performance maturity model, core competencies.
@@ -18,6 +18,8 @@ Elise wrote [Where the action is](https://www.lucidmeetings.com/book) a book abo
 ---
 
 ### About the guest
+
+<img width="200px" src="/assets/{{page.authorImage}}" alt="{{page.author}}">
 
 #### Contact info
 Our company website has contact info and a ton of great stuff on it: [lucidmeetings.com](http://lucidmeetings.com)
