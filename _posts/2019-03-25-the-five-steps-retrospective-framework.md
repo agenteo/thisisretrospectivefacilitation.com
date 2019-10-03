@@ -24,7 +24,7 @@ Back in 1996 Norm couldn’t facilitate cause he was the manager of the team so 
 
 **As we worked we realized there needed to be something other the end of project retrospectives in the agile space**. We talked with others in the industry like Rachel Davis and Tim McKinnon and realized we needed retrospectives around the iterative cadence of agile. A time not just for the organization to look back at how to improve projects but for the team to look Back at the how to improve how they work together.
 
-We started writing about what we were doing differently then Norm, and we looked at other facilitation sources: one from [The institute of cultural affairs in Canada](https://www.icacan.org) (the [Art of focused conversations](https://www.icacan.org/books/the-art-of-focused-conversation/), one from [Human system dynamics](https://www.hsdinstitute.org) (the [adaptive action](https://www.hsdinstitute.org/resources/adaptive-action-guide.html) format). 
+We started writing about what we were doing differently then Norm, and we looked at other facilitation sources: one from [The institute of cultural affairs in Canada](https://www.icacan.org) (the [Art of focused conversations](https://www.icacan.org/resources/), one from [Human system dynamics](https://www.hsdinstitute.org) (the [adaptive action](https://www.hsdinstitute.org/resources/adaptive-action-guide.html) format). 
 
 All shared first an assessment of the current situation. Then once you have clarity look in to what insights can we get--an analytical phase versus the initial descriptive phase--and then comes a decision phase. Now what do we want to do about that? Where is the best place to put our energy. **That became gather data, generate insights, generate what to do.**
 
