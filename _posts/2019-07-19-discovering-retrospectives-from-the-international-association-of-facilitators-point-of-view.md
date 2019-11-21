@@ -2,6 +2,8 @@
 layout: post
 title: Discovering retrospectives from the International Association of Facilitators point of view
 permalink: /episodes/discovering-retrospectives-from-the-international-association-of-facilitators-point-of-view
+redirect_from: 
+  - /e/12
 comments: true
 date: 2019-07-19
 author: "Karen Schmidt, Wiebke Herding"

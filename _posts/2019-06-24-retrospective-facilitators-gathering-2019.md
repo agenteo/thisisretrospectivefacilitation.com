@@ -2,6 +2,8 @@
 layout: post
 title:  Retrospective Facilitators Gathering (RFG) 2019
 permalink: /episodes/retrospective-facilitators-gathering-2019
+redirect_from: 
+  - /e/11
 comments: true
 date: 2019-06-24
 author: "Veit Richter, Malte Sussdorff, Aino Corry, George Dinwiddie"

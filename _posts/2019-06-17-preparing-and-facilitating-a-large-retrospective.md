@@ -2,6 +2,8 @@
 layout: post
 title:  Preparing and facilitating a large retrospective
 permalink: /episodes/preparing-and-facilitating-a-large-retrospective
+redirect_from: 
+  - /e/10
 comments: true
 date: 2019-06-10
 author: Pam Clavier & Lukas Klose & Siebold Anita

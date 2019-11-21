@@ -2,6 +2,8 @@
 layout: post
 title:  Retrospective learning with double loop learning
 permalink: /episodes/retrospective-learning-with-double-loop-learning
+redirect_from: 
+  - /e/7
 date:   2019-04-29
 comments: true
 author: Joanne Perold

@@ -1,15 +1,16 @@
 ---
 layout: post
-title: A retrospectives is where the action is
-permalink: /episodes/a-retrospectives-is-where-the-action-is
+title: More conversations on remote retrospective facilitation
+permalink: /episodes/more-conversations-on-remote-retrospective-facilitation
 redirect_from: 
-  - /e/14
+  - /e/15
 comments: true
 date: 2019-10-07
-author: "Elise Keith"
+author: "Jay-Allen Morris & Kirsten Clacey"
 authorImage: elise_keith.jpg
-excerpt: Elise wrote "Where the action is" a book about meetings that make or break your organization. She'll share some insights on how to make our retrospectives even more effective considering the meeting performance maturity model, core competencies
+excerpt: Elise wrote "Where the action is" a book about meetings that make or break your organization. She'll share some insights on how to make our retrospectives even more effective considering the meeting performance maturity model, core competencies.
 categories: [season-one]
+draft: true
 ---
 
 Elise wrote [Where the action is](https://www.lucidmeetings.com/book) a book about meetings that make or break your organization. She'll share some insights on how to make our retrospectives even more effective considering the meeting performance maturity model, core competencies.

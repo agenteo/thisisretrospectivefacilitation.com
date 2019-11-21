@@ -2,6 +2,8 @@
 layout: post
 title:  War time US Army after action review and retrospectives
 permalink: /episodes/war-time-us-army-after-action-review-and-retrospectives
+redirect_from: 
+  - /s/2
 comments: true
 date: 2019-05-20
 author: Jon Schneider

@@ -2,6 +2,8 @@
 layout: post
 title:  Beyond retrospectives using Toyota Learning Kata
 permalink: /episodes/beyond-retrospectives-using-toyota-learning-kata
+redirect_from: 
+  - /e/9
 comments: true
 date: 2019-06-10
 author: Adam Light

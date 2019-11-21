@@ -2,6 +2,8 @@
 layout: post
 title:  Why would you write a book about retrospectives?
 permalink: /episodes/why-would-you-write-a-book-about-retrospectives
+redirect_from: 
+  - /e/8
 comments: true
 date: 2019-06-03
 author: Pat Kua

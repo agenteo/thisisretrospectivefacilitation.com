@@ -2,6 +2,8 @@
 layout: post
 title:  "The five steps retrospective framework"
 permalink: /episodes/the-five-steps-retrospective-framework
+redirect_from: 
+  - /e/4
 date:   2019-03-25
 comments: true
 author: Diana Larsen

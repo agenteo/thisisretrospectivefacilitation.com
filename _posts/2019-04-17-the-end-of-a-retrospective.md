@@ -2,6 +2,8 @@
 layout: post
 title:  The end goal of a retrospective
 permalink: /episodes/the-end-goal-of-a-retrospective
+redirect_from: 
+  - /e/6
 date:   2019-04-17
 comments: true
 author: George Dinwiddie

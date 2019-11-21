@@ -2,6 +2,8 @@
 layout: post
 title: Retrospectives for organizational change
 permalink: /episodes/retrospectives-for-organizational-change
+redirect_from: 
+  - /e/13
 comments: true
 date: 2019-08-29
 author: "Jutta Eckstein"

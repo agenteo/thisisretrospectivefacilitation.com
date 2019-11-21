@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "What is a powerful retrospective"
-redirect_from: /episodes/1-what-is-a-retrospective
+redirect_from:
+  - /episodes/1-what-is-a-retrospective
+  - /e/1
 permalink: /episodes/what-is-a-powerful-retrospective
 date:   2019-02-26
 comments: true

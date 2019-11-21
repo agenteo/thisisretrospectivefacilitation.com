@@ -2,6 +2,8 @@
 layout: post
 title:  "Remote retrospectives challenges and advantages"
 permalink: /episodes/remote-retrospectives-challenges-and-advantages
+redirect_from: 
+  - /e/5
 date:   2019-04-02
 comments: true
 author: David Horowitz

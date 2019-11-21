@@ -2,6 +2,8 @@
 layout: post
 title:  War time debriefings in the US Marine Corps and retrospectives
 permalink: /episodes/war-time-debriefing-in-the-USMC-and-retrospectives
+redirect_from: 
+  - /s/1
 date:   2019-05-13
 comments: true
 author: Jon Hawkins

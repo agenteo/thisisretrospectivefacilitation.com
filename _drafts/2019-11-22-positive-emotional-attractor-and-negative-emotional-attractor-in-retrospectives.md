@@ -1,15 +1,16 @@
 ---
 layout: post
-title: A retrospectives is where the action is
-permalink: /episodes/a-retrospectives-is-where-the-action-is
+title: Positive emotional attractor and negative emotional attractor in retrospectives
+permalink: /episodes/positive-emotional-attractor-and-negative-emotional-attractor-in-retrospectives
 redirect_from: 
-  - /e/14
+  - /e/16
 comments: true
-date: 2019-10-07
-author: "Elise Keith"
+date: 2019-11-21
+author: "Kevin Callahan"
 authorImage: elise_keith.jpg
-excerpt: Elise wrote "Where the action is" a book about meetings that make or break your organization. She'll share some insights on how to make our retrospectives even more effective considering the meeting performance maturity model, core competencies
+excerpt: Emotional intelligence, hope, mindfulness, and compassion help a person reverse the damage of chronic stress and build great leadership relationships. The Positive and Negative Emotional Attractors inspire sustained, desired change and learning at many levels. In this episode I'll chat with Kevin that will tell us how to practically use PEA and NEA.
 categories: [season-one]
+draft: true
 ---
 
 Elise wrote [Where the action is](https://www.lucidmeetings.com/book) a book about meetings that make or break your organization. She'll share some insights on how to make our retrospectives even more effective considering the meeting performance maturity model, core competencies.

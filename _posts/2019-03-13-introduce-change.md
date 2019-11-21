@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  Introduce change in retrospectives
-redirect_from: /episodes/3-introduce-change
+redirect_from: 
+  - /episodes/3-introduce-change
+  - /e/3
 permalink: /episodes/introduce-change
 date:   2019-03-13
 comments: true

@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  "Becoming a facilitator"
-redirect_from: /episodes/2-becoming-a-facilitator
+redirect_from: 
+  - /episodes/2-becoming-a-facilitator
+  - /e/2
 permalink: /episodes/becoming-a-retrospective-facilitator
 date:   2019-03-05
 comments: true

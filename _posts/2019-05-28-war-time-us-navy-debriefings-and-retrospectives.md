@@ -2,6 +2,8 @@
 layout: post
 title:  War time US Navy debriefings and retrospectives
 permalink: /episodes/war-time-us-navy-debriefings-and-retrospectives-and-continuous-learning
+redirect_from: 
+  - /s/3
 comments: true
 date: 2019-05-28
 author: Dan Greene
