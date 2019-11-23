@@ -8,7 +8,7 @@ comments: true
 date: 2019-11-21
 author: "Kevin Callahan"
 authorImage: elise_keith.jpg
-excerpt: Emotional intelligence, hope, mindfulness, and compassion help a person reverse the damage of chronic stress and build great leadership relationships. The Positive and Negative Emotional Attractors inspire sustained, desired change and learning at many levels. In this episode I'll chat with Kevin that will tell us how to practically use PEA and NEA.
+excerpt: Emotional intelligence, hope, mindfulness, and compassion help a person reverse the damage of chronic stress and build great leadership relationships. The Positive and Negative Emotional Attractors inspire sustained, desired change and learning at many levels. In this episode I'll chat with Kevin Callahan that will tell us how to practically use PEA and NEA.
 categories: [season-one]
 draft: true
 ---
