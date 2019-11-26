@@ -2,6 +2,6 @@
 #
 # Simple deploy script for this blog.
 
-: ${DEPLOY:=_deploy}
+: ${DEPLOY:=../_deploy}
 
 jekyll build -d $DEPLOY
