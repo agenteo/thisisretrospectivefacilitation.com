@@ -6,9 +6,42 @@
 </description>
     <link>https://thisisretrospectivefacilitation.com/</link>
     <atom:link href="https://thisisretrospectivefacilitation.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Nov 2019 18:31:04 -0800</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2019 18:31:04 -0800</lastBuildDate>
+    <pubDate>Tue, 10 Mar 2020 22:15:21 -0700</pubDate>
+    <lastBuildDate>Tue, 10 Mar 2020 22:15:21 -0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>An agile retrospective with the Beatles</title>
+        <description>&lt;p&gt;No Paul didn’t do a retrospective with the Beatles, but the title seems to fit given the example he gave about a technique called &lt;a href=&quot;https://www.crrglobal.com/orsc.html&quot;&gt;ORSC™&lt;/a&gt; (organization and relationship systems coaching). How you coach the Beatles is different then coaching John, Paul, Ringo and George individually. Paul shares stories about ORSC™ and his facilitation journey.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/774115765&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;about-the-guest&quot;&gt;About the guest&lt;/h3&gt;
+
+&lt;p&gt;&lt;img width=&quot;200px&quot; src=&quot;/assets/paul_tevis.jpg&quot; alt=&quot;Paul Tevis&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;short-bio&quot;&gt;Short bio&lt;/h4&gt;
+
+&lt;p&gt;Paul Tevis is a coach and facilitator. He partners with technical leaders who want to work as effectively with people as they do with technology. You can learn more about his work at &lt;a href=&quot;http://vigemus.com&quot;&gt;vigemus.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&quot;contact-info&quot;&gt;Contact info&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/paultevis/&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/Vigemus-Consulting-1321281591381649/&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/vigemus&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Tue, 10 Mar 2020 00:00:00 -0700</pubDate>
+        <link>https://thisisretrospectivefacilitation.com/episodes/an-agile-retrospective-with-the-beatles</link>
+        <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/an-agile-retrospective-with-the-beatles</guid>
+        
+        
+        <category>season-two</category>
+        
+      </item>
     
       <item>
         <title>Positive emotional attractor and negative emotional attractor in retrospectives</title>
@@ -286,53 +319,6 @@ For speaking, interviews, etc, my personal website is: &lt;a href=&quot;http://j
         <pubDate>Mon, 24 Jun 2019 00:00:00 -0700</pubDate>
         <link>https://thisisretrospectivefacilitation.com/episodes/retrospective-facilitators-gathering-2019</link>
         <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/retrospective-facilitators-gathering-2019</guid>
-        
-        
-        <category>season-one</category>
-        
-      </item>
-    
-      <item>
-        <title>Preparing and facilitating a large retrospective</title>
-        <description>&lt;p&gt;Anita, Lukas and Pam  collaborated in facilitating a retrospective for multiple teams with a total of 60 participants. They split the group in smaller groups and used nested diamonds of participatory decision making (from Kaner’s book).&lt;/p&gt;
-
-&lt;p&gt;They wrote a detailed blog post https://www.agile42.com/en/blog/2018/09/05/how-we-facilitated-all-hands-retrospective-60-people-three-hours/ but I wanted to ask a few more questions.&lt;/p&gt;
-
-&lt;p&gt;Why would you embark on such an endeavor, what did they learn and what recommendations they have for facilitators about to handle a group this large.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/637244664%3Fsecret_token%3Ds-VJkPA&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&quot;guests&quot;&gt;Guests&lt;/h2&gt;
-
-&lt;p&gt;&lt;img width=&quot;200px&quot; src=&quot;/assets/anita_lukas_pam.jpg&quot; alt=&quot;Pam Clavier &amp;amp; Lukas Klose &amp;amp; Siebold Anita&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;pam&quot;&gt;Pam&lt;/h3&gt;
-
-&lt;p&gt;Pam Clavier is a nineteen-year veteran of IT consulting. She learned the ropes working in Business Analysis, Project Management, Change Management and other Management Consulting roles. She is currently an Executive Program Manager, implementing a new IT delivery model using Agile and DevOps. She loves learning and loves to work in the Agile DevOps environment where she can learn something new every day while working with motivated and energetic colleagues. Pam has a PhD in Information Systems on a Business Intelligence topic. She is a certified SAFe Program Consultant (SPC) and has CBAP, PMP, CSM and CSPO certifications.&lt;/p&gt;
-
-&lt;p&gt;You can connect with her on &lt;a href=&quot;https://ca.linkedin.com/in/pamclavier&quot;&gt;LinkedIn&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;lukas&quot;&gt;Lukas&lt;/h3&gt;
-
-&lt;p&gt;Can be contact via &lt;a href=&quot;mailto:lukas@klose-coaching.com&quot;&gt;lukas@klose-coaching.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Lukas is an agile coach and trainer. His career took him from tech startups in the 1990s to managerial engagements, and finally to agile coaching, where he has found his passion of helping organizations transform their world of work to be more meaningful while increasing productivity and their competitive advantage.&lt;/p&gt;
-
-&lt;p&gt;Lukas  also helped build and now teaches the Agile Leadership Program at UBC’s Sauder School of Business. This program consists of seven classes covering various aspects of agility, ranging from foundational understanding of agility to specialized knowledge about leadership, product management and scrum mastering.&lt;/p&gt;
-
-&lt;h3 id=&quot;anita&quot;&gt;Anita&lt;/h3&gt;
-
-&lt;p&gt;Can be contacted via &lt;a href=&quot;mailto:anitaesiebold@gmail.com&quot;&gt;anitaesiebold@gmail.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Anita Siebold is a dedicated, passionate IT professional with 25+ years’ experience. She has extensive experience as a program and project manager with wide ranging scope, everything from custom development, to COTS implementations and infrastructure upgrades with teams 5-50+ people. Her experience with ITSM process implementation and improvement resulted in a stint as the IT Support Desk manager. Anita made the transition from the more traditional waterfall project model to the Agile DevOps environment several years ago. She is now embracing SAFe in her role as a SAFe Release Train Engineer with her organization as it scales its agile practice. Anita is grateful for the transition and her new found role(s) as she finds continuous learning and servant leadership suits her values, personality and gifts very well. She is certified as a SAFe Program Consultant (SPC) and a SAFe Release Train Engineer (RTE). Anita has CSM, PSM I, CSPO certifications as well as certifications in applied leadership (JIBC) and agile leadership (UBC).&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Music used in intro/outro is by Krakatoa https://krackatoa.bandcamp.com/album/running-with-wise-fools&lt;/p&gt;
-</description>
-        <pubDate>Mon, 10 Jun 2019 00:00:00 -0700</pubDate>
-        <link>https://thisisretrospectivefacilitation.com/episodes/preparing-and-facilitating-a-large-retrospective</link>
-        <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/preparing-and-facilitating-a-large-retrospective</guid>
         
         
         <category>season-one</category>
