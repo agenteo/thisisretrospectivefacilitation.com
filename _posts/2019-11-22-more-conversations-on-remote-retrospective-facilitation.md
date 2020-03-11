@@ -10,7 +10,6 @@ author: "Jay-Allen Morris & Kirsten Clacey"
 authorImage: jay-and-kirsten.jpg
 excerpt: Together, Kirsten and Jay have specialised in enabling distributed teams to reach high performance, using a combination of adapted facilitation techniques, team coaching methods and Agile frameworks. In this episode we will chat about structures and challenges for remote retrospectives.
 categories: [season-one]
-draft: true
 ---
 
 Together, Kirsten and Jay have specialised in enabling distributed teams to reach high performance, using a combination of adapted facilitation techniques, team coaching methods and Agile frameworks. In this episode we will chat about structures and challenges for remote retrospectives.
