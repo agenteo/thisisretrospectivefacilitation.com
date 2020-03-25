@@ -2,6 +2,7 @@
 layout: page
 title: Help Norm
 permalink: /helpnorm/
+main_nav: false
 ---
 
 <img src="/assets/norman_kerth.jpg" alt="Norm Kerth">
