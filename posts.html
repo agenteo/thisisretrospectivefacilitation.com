@@ -1,10 +1,35 @@
 ---
-layout: page
-title: "Episodes"
-permalink: /episodes/
+layout: fancy
+title: "Podcast"
+permalink: /podcast/
+redirect_from: 
+  - /episodes
 main_nav: true
+cover: /assets/hero.jpg
 ---
 
+<div class="wrapper">
+  <div class="post-header-container">
+    <h2 class="post-header">Listen to our {{ site.posts | size }} episodes on your favourite platform</h2>
+    <div class="wrapper">
+      <div class="post-header-container">  
+        <div class="listen-on">      
+          <form action="https://itunes.apple.com/us/podcast/this-is-retrospective-facilitation/id1453928932?mt=2&app=podcast"><button>iTunes</button></form>
+          <form action="https://www.stitcher.com/podcast/this-is-retrospective-facilitation"><button>Stitcher</button></form>
+          <form action="https://open.spotify.com/show/0G0qzC53VxoHVzwgs6gtVF?si=kAwZzMPgRBCQicWQRUO4lQ"><button>Spotify</button></form>
+          <form action="https://overcast.fm/itunes1453928932/this-is-retrospective-facilitation"><button>Overcast</button></form>
+        </div>
+      </div>
+    </div>  
+  </div>
+  <!--End mc_embed_signup-->
+</div>
+
+{% include page_divider.html %}
+
+<div class="post-header-container">
+  <h3 class="post-header">Or listen from this page</h3>
+</div>
 <ul class="post-list">
   {% for post in site.posts %}
   <li class="post">
