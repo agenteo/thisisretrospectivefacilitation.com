@@ -29,9 +29,9 @@ After a degree in economics and a MBA, his professional career started as innova
 Gerardo is a IAF – International Association of Facilitators CPF - Certified Professional Facilitator, and has got a certification on Agile Foundations from the Agile Consortium.
 He is an assessor in the IAF CPF certification program and supports Agile transformations by training Agilists on facilitation. He works as a consultant and change facilitator for many different organisations, supporting their efforts in an Agile perspective. 
 
-Contact her through her website at <a href="karengimnig.net">karengimnig.net</a> , by email at <a href="mailto:gimnig@gmail.com">gimnig@gmail.com</a>, or phone 678-705-9007
 
 ### Links
 
+* You can find Gerardo's contact details [here](https://www.iaf-world.org/site/about/governance)
 * The book Gerardo referenced [Everything is miscellaneous](https://www.amazon.com/Everything-Miscellaneous-Power-Digital-Disorder/dp/0805088113) in Italian [Elogio del disordine](https://www.ibs.it/elogio-del-disordine-regole-del-libro-david-weinberger/e/9788817039116)
 * [The mentorship program](https://www.iaf-world.org/site/global-mentorship-program)

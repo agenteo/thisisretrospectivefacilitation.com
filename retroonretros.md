@@ -15,7 +15,7 @@ It's a free __remote session__ for anyone -- regardless of title and experience 
 
 It's a time to stop and reflect on how we tune and adjust our retrospectives.
 
-{% include newsletter_subscribe.html %}  
+{% include retroonretros_subscribe.html %}  
 
 ## What does it look like?
 
@@ -47,7 +47,7 @@ The group takes notes--I tend to do it visually--to capture insights of the disc
 
 And we finish it with some feedback on the session.
 
-{% include newsletter_subscribe.html %}  
+{% include retroonretros_subscribe.html %}  
 
 ## More details
 
@@ -73,7 +73,7 @@ And we finish it with some feedback on the session.
 * The structure will vary depending on group size and will be shared on the day. Usually we go lean coffee, if more then a handful of people we'll break out.
 * This is a sample structure used for the PST event of [world retrospective day](https://wrd2020.thisisretrospectivefacilitation.com)
 
-{% include newsletter_subscribe.html %}  
+{% include retroonretros_subscribe.html %}  
 
 ## More examples
 
@@ -94,4 +94,4 @@ Talking about bringing FRIM and circles and soups online
 
 <br />
 
-{% include newsletter_subscribe.html %}  
+{% include retroonretros_subscribe.html %}  
