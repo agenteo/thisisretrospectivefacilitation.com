@@ -2,6 +2,7 @@
 layout: fancy
 title: Retro on retros
 subtitle: A remote and interactive retrospective on our retrospectives!
+excerpt: A free remote session to stop and collaboratively reflect on how we tune and adjust our retrospectives.
 permalink: /retro-on-retros/
 redirect_from: 
   - /retroonretro

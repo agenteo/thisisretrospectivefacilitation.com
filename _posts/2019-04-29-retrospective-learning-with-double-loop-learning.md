@@ -18,7 +18,7 @@ Do you ever find your retrospective fixing low hanging fruit? What about the har
 
 ## Guest
 
-Joanne Perold helps organizations develop software more effectively. He brings decades of development experience from electronic hardware and embedded firmware to business information technology. He helps organizations, managers, and teams solve the problems they face by providing consulting, coaching, mentoring and training at the organizational, process, team, interpersonal, and technical levels. Involved in the Agile community since 2000, he has helped groups ranging from a 6-person startup to a Fortune 100 company and a billion-plus dollar federal program, either directly or in partnership with other companies. He is the author of Evolutionary Anatomy of Test Automation Code and co-author of Patterns of Agile Journeys.
+Joanne is passionate about helping teams and people grow, and improve. She is a graduate of PSL (Problem Solving Leadership) and has worked for more than a decade in the software industry in all areas of software development. Her toolbox includes Scrum, Kanban and complexity thinking amongst other things. Interested in both people and process improvement, she is continuously learning and finding better ways to solve problems. She is a frequent speaker and attendee at agile and testing conferences in South Africa, Australia, Europe and the US.
 
 [@joPerold](http://twitter.com/joPerold)
 [Joanne.perold@agile42.com](Joanne.perold@agile42.com)
