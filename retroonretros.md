@@ -8,6 +8,7 @@ redirect_from:
   - /retroonretro
   - /retroonretros
 cover: /assets/retroonretros_hero.jpg
+main_nav: false
 ---
 
 ## What is retro on retros?

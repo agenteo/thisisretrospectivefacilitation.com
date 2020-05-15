@@ -8,11 +8,11 @@ comments: true
 date: 2020-05-07
 author: "Paul Boos"
 authorImage: paul_boos.jpg
-excerpt: Paul is an agile coach, he started the Agile Coach Camp initiative, we met at the Retrospective Facilitator Gathering last year. I’ve asked him what his focus is in retrospectives given the recent shift to online plus lessons learned during his experience facilitating retrospectives.
+excerpt: Paul is an agile coach, he's helping expand and strengthen the Agile Coach Camp initiative, we met at the Retrospective Facilitator Gathering last year. I’ve asked him what his focus is in retrospectives given the recent shift to online plus lessons learned during his experience facilitating retrospectives.
 categories: [season-two]
 ---
 
-Paul is an agile coach, he started the Agile Coach Camp initiative, we met at the Retrospective Facilitator Gathering last year. I’ve asked him what his focus is in retrospectives given the recent shift to online plus lessons learned during his experience facilitating retrospectives.
+Paul is an agile coach, he's helping expand and strengthen the Agile Coach Camp initiative, we met at the Retrospective Facilitator Gathering last year. I’ve asked him what his focus is in retrospectives given the recent shift to online plus lessons learned during his experience facilitating retrospectives.
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/815384581%3Fsecret_token%3Ds-PEVftaYvtYk&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
