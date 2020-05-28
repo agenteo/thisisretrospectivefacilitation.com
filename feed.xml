@@ -6,9 +6,41 @@
 </description>
     <link>https://thisisretrospectivefacilitation.com/</link>
     <atom:link href="https://thisisretrospectivefacilitation.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 May 2020 17:00:25 +0200</pubDate>
-    <lastBuildDate>Fri, 15 May 2020 17:00:25 +0200</lastBuildDate>
+    <pubDate>Thu, 28 May 2020 15:26:23 +0200</pubDate>
+    <lastBuildDate>Thu, 28 May 2020 15:26:23 +0200</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Retrospectives Antipatterns</title>
+        <description>&lt;p&gt;In this episode we have Aino, she’s a teacher, a technical conference editor and retrospectives facilitator. We’ll talk about 3 anti patterns from the book she wrote: retrospectives anti patterns,&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/829735234%3Fsecret_token%3Ds-VJDC5EkCp8q&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/tirfpodcast&quot; title=&quot;This is retrospective facilitation&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;This is retrospective facilitation&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/tirfpodcast/23-retrospectives-antipatterns-with-eino-corry/s-VJDC5EkCp8q&quot; title=&quot;23 Retrospectives Antipatterns with Aino Corry&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;23 Retrospectives Antipatterns with Aino Corry&lt;/a&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;about-the-guest&quot;&gt;About the guest&lt;/h3&gt;
+
+&lt;p&gt;&lt;img width=&quot;200px&quot; src=&quot;/assets/aino_corry.jpg&quot; alt=&quot;Aino Corry&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;short-bio&quot;&gt;Short bio&lt;/h4&gt;
+
+&lt;p&gt;Aino Vonge Corry is a teacher, a technical conference editor and retrospectives facilitator. She holds a masters degree and a Ph.D. in computer science. She has 12 years of experience with Patterns in Software Development, and 10+ years’ experience with facilitation of retrospectives. For the past 5 years she has been focused on facilitating the agile journey for several companies in Denmark. She also teaches how to teach Computer Science to teachers, and thus lives up to the name of her company; Metadeveloper.&lt;/p&gt;
+
+&lt;h3 id=&quot;links&quot;&gt;Links&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Twitter: &lt;a href=&quot;https://twitter.com/apaipi&quot;&gt;@apaipi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Homepage: &lt;a href=&quot;http://metadeveloper.com&quot;&gt;metadeveloper.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://metadeveloper.com/retrospective-antipatterns/&quot;&gt;Retrospectives Antipatterns book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 28 May 2020 00:00:00 +0200</pubDate>
+        <link>https://thisisretrospectivefacilitation.com/episodes/retrospectives-antipatterns</link>
+        <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/retrospectives-antipatterns</guid>
+        
+        
+        <category>season-two</category>
+        
+      </item>
     
       <item>
         <title>Lessons learned in Retrospectives</title>
@@ -298,37 +330,6 @@ expose yourself and attract again, people that maybe have more experience or may
         
         
         <category>season-two</category>
-        
-      </item>
-    
-      <item>
-        <title>Positive emotional attractor and negative emotional attractor in retrospectives</title>
-        <description>&lt;p&gt;“Emotional intelligence, hope, mindfulness, and compassion help a person reverse the damage of chronic stress and build great leadership relationships. The Positive and Negative Emotional Attractors inspire sustained, desired change and learning at many levels.” In this episode I’ll chat with Kevin Callahan that will tell us how to practically use PEA and NEA.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/717152659%3Fsecret_token%3Ds-iO432&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;about-the-guest&quot;&gt;About the guest&lt;/h3&gt;
-
-&lt;p&gt;&lt;img width=&quot;200px&quot; src=&quot;/assets/kevin_callahan.jpg&quot; alt=&quot;Kevin Callahan&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;short-bio&quot;&gt;Short bio&lt;/h4&gt;
-
-&lt;p&gt;Kevin is the principal of Interaction Agility, Inc. He holds a Masters Degree in Positive Organization Development and Change, along with certificates in Appreciative Inquiry and Emotionally Intelligent Leadership and Coaching from the Weatherhead School of Management at Case Western Reserve University.&lt;/p&gt;
-
-&lt;p&gt;He is an authorized trainer for the International Agile Consortium (IC Agile) and a member of a team of global senior practitioners designing the IC Agile Certified Expert - Enterprise Agile Coaching certification.&lt;/p&gt;
-
-&lt;h4 id=&quot;contact-info&quot;&gt;Contact info&lt;/h4&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.linkedin.com/in/kevin-callahan-mspod&quot;&gt;Linkedin&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Nov 2019 00:00:00 +0100</pubDate>
-        <link>https://thisisretrospectivefacilitation.com/episodes/positive-emotional-attractor-and-negative-emotional-attractor-in-retrospectives</link>
-        <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/positive-emotional-attractor-and-negative-emotional-attractor-in-retrospectives</guid>
-        
-        
-        <category>season-one</category>
         
       </item>
     
