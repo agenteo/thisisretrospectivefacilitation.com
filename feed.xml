@@ -6,9 +6,37 @@
 </description>
     <link>https://thisisretrospectivefacilitation.com/</link>
     <atom:link href="https://thisisretrospectivefacilitation.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 03 Nov 2020 08:47:33 +0100</pubDate>
-    <lastBuildDate>Tue, 03 Nov 2020 08:47:33 +0100</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2020 16:26:16 +0100</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2020 16:26:16 +0100</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Reflection on Cynefin helping Agile Retrospectives</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/935165053&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/tirfpodcast&quot; title=&quot;This is retrospective facilitation&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;This is retrospective facilitation&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/tirfpodcast/reflection-cynefin-helps-agile-retrospectives&quot; title=&quot;Reflection - Cynefin helps Agile Retrospectives&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Reflection - Cynefin helps Agile Retrospectives&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;This is going to be a shorter episode on Cynefin and how it can help agile retrospectives. Cynefin is Cognitive Edge’s sense making framework. It helps, in my opinion, to determine what kind of issues we’re tackling in our retrospectives. Is it something simple that has a straight forward solution? Or do we need to reflect a little bit more on it. And in my experience, I’ve seen most of retrospectives tackling those simple or at most complicated issues. And we’re skipping on reflection. And so the usual retro goes in by collecting data, hopefully, having some clustering or patterns looked at from the group, patterns, perhapse they are named, definitely prioritized. And then there are action items coming out of those parents discussion.&lt;/p&gt;
+
+&lt;p&gt;This is a simplification of what a retrospective is like.&lt;/p&gt;
+
+&lt;p&gt;One of the elements that I see happening over and over again, and were Cynefin can help is, okay, how can we fix this? So there’s this pattern, or there is this card? How can we fix it? And it’s a very linear kind of like, here’s the problem, how do we fix it. And that, in my opinion, does a disservice to our retrospective, by introducing Cynefin or other complexity frameworks, but in this episode we’re using Cynefin of an as a as a way to, to deal with this discussion when we generate insights, so after we gather data about their last iteration, we can use there is an activity called &lt;strong&gt;four points&lt;/strong&gt;. That doesn’t require you to introduce the framework first. So you have what they call a contextualized framework, based on the data that emerged from the last iteration. And what those four points are like, is basically four corners. And each corner has a sentence on the top left, we have situation is clear in retrospect. On the top right, we have expert could know the right answer. On the bottom right, we have everybody knows the right answer. And on the bottom left, there is no right answer. And in the middle, there’s an area where you’re confused and you don’t quite know where to put things.&lt;/p&gt;
+
+&lt;p&gt;So the the reason that we that I think this helps retrospectives is it moves on to a discussion where, okay, if everyone knows the right answer. That’s that’s fairly straightforward. And the expert knows the right answer is also something that we know where to go next. But the stuff that is sometime interesting is when stuff is clear in retrospect, and stuff is complex. And we need to run experiments and reflect a little bit longer than just jumping onto a solution that everyone knows. Now what I’ve seen happening here most of the time is, it’s clear to someone, but not to someone else. So if you cannot come to some sort of like agreement in in a timely manner, this is probably not as simple as that person thinks.&lt;/p&gt;
+
+&lt;p&gt;So, yeah, try it out. In your next perspective, I have an article that I’ll link in the in the show notes: &lt;a href=&quot;http://teotti.com/cynefin-helps-agile-retrospectives/&quot;&gt;http://teotti.com/cynefin-helps-agile-retrospectives/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;And once you’ve determined like, Where are things living in those domains in those spaces, as yourself or us have the group ourselves, we’re what we want to tackle next. Use some sort of like a prioritization doc voting on what do we do? What do we want to tackle next, as well as what is in our area of control in our influence, so what is outside of the sphere of influence, and this is a space where it might be interesting to see things that are outside of our control and influence. What parts or sub parts are simple, complicated, complex or chaotic, and reflect on that and perhaps that helps generate some actions that are now within the area of control or influence of the team.&lt;/p&gt;
+
+&lt;p&gt;So this is about it for the five minutes of this short reflection on probably going to start following up with another one with some more practical examples of the probing that they Cognitive suggests you do in your complex spaces. Well thank you for listening, and until next time.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Nov 2020 00:00:00 +0100</pubDate>
+        <link>https://thisisretrospectivefacilitation.com/episodes/reflection-on-cynefin-helping-agile-retrospectives</link>
+        <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/reflection-on-cynefin-helping-agile-retrospectives</guid>
+        
+        
+        <category>reflections</category>
+        
+      </item>
     
       <item>
         <title>Retrospectives Antipatterns</title>
@@ -297,39 +325,6 @@ expose yourself and attract again, people that maybe have more experience or may
         
         
         <category>reflections</category>
-        
-      </item>
-    
-      <item>
-        <title>An agile retrospective with the Beatles</title>
-        <description>&lt;p&gt;No Paul didn’t do a retrospective with the Beatles, but the title seems to fit given the example he gave about a technique called &lt;a href=&quot;https://www.crrglobal.com/orsc.html&quot;&gt;ORSC™&lt;/a&gt; (organization and relationship systems coaching). How you coach the Beatles is different then coaching John, Paul, Ringo and George individually. Paul shares stories about ORSC™ and his facilitation journey.&lt;/p&gt;
-
-&lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/774115765&amp;amp;color=%23ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;show_teaser=true&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;about-the-guest&quot;&gt;About the guest&lt;/h3&gt;
-
-&lt;p&gt;&lt;img width=&quot;200px&quot; src=&quot;/assets/paul_tevis.jpg&quot; alt=&quot;Paul Tevis&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;short-bio&quot;&gt;Short bio&lt;/h4&gt;
-
-&lt;p&gt;Paul Tevis is a coach and facilitator. He partners with technical leaders who want to work as effectively with people as they do with technology. You can learn more about his work at &lt;a href=&quot;http://vigemus.com&quot;&gt;vigemus.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id=&quot;contact-info&quot;&gt;Contact info&lt;/h4&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.linkedin.com/in/paultevis/&quot;&gt;Linkedin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/Vigemus-Consulting-1321281591381649/&quot;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://twitter.com/vigemus&quot;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Tue, 10 Mar 2020 00:00:00 +0100</pubDate>
-        <link>https://thisisretrospectivefacilitation.com/episodes/an-agile-retrospective-with-the-beatles</link>
-        <guid isPermaLink="true">https://thisisretrospectivefacilitation.com/episodes/an-agile-retrospective-with-the-beatles</guid>
-        
-        
-        <category>season-two</category>
         
       </item>
     
